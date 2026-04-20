@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color:  hsl(212, 45%, 89%);
+    font-family: "Outfit" , sans-serif;
+}
+
+.container{
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.all_QRcard{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    width: 330px;
+    max-width: 90%;
+}
+
+img{
+    border-radius: 10px;
+    width: 100%;
+}
+
+h1{
+    color: hsl(218, 44%, 22%);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+
+p{
+    color: hsl(216, 15%, 48%);
+    font-size: 15px;
+    font-weight: 400;
+    padding: 18px;
+}
+
+
+
+
